@@ -88843,7 +88843,6 @@ gist-assets.github.exacttarget.com
 gist-raw.github.exacttarget.com
 gist-us.com
 gist.github.exacttarget.com
-gist.githubusercontent.com
 gistal.com
 gistapo.net
 gistback.com
