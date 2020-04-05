@@ -1,7 +1,7 @@
 # hassio AdGuard
 This is my personal AdGuard Block- Whitelist.
-Feel free to use.
+Feel free to use for your own AdGuard or PiHole instance.
 
-It is sorted by alphabetic and contains no double entrys.
+It's sorted alphabetically and contains no double entries.
 
-From time to time i'll update those lists.
+From time to time i'll keep those lists updated.
