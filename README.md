@@ -1,4 +1,4 @@
-# hassio
+# hassio AdGuard
 This is my personal AdGuard Block- Whitelist.
 Feel free to use.
 
