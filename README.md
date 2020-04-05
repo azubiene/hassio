@@ -1,4 +1,4 @@
-# hass.io AdGuard / PiHole
+# hass.io AdGuard / PiHole Lists
 This is my personal AdGuard Block- Whitelist.
 Feel free to use for your own AdGuard or PiHole instance.
 
