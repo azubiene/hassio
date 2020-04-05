@@ -10246,6 +10246,7 @@ offers.affiliatetraction.com
 offers.appnext.com
 offers.astreipo.com
 offers.avazuscd.net
+offers.avira.com
 offers.bitbop.com
 offers.bittorrent.com
 offers.bullseye-network.com

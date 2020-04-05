@@ -17489,6 +17489,7 @@ ec.atlassolutions.com
 ec.bancapichincha-com.ga
 ec.c.ooyala.com
 ec.ccm2.net
+ec.atdmt.com
 ec.cdne.cpmstar.com
 ec.handeaxle.com
 ec.kejet.net
@@ -109822,6 +109823,7 @@ euamoatatianabbb.zip.net
 euamobc.tur.br
 euamocriancas.com.br
 euamonetflix.com
+eu.vortex.data.microsoft.com
 euan97.no-ip.biz
 euangestiissese.com
 euapi.ibm.xtify.com
